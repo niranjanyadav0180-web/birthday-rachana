@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Happy Birthday Rachana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Floating Balloons -->
+<div class="balloons">
+    <div class="balloon red"></div>
+    <div class="balloon blue"></div>
+    <div class="balloon yellow"></div>
+    <div class="balloon pink"></div>
+    <div class="balloon green"></div>
+</div>
+
+<!-- Birthday Card -->
+<div class="card">
+    <h1>🎉 Happy Birthday 🎂</h1>
+    <h2>Dear <span>Rachana</span></h2>
+    <p>
+        May your birthday be filled with happiness, laughter,  
+        and unforgettable moments.  
+        Wishing you success, good health, and endless smiles! 💖
+    </p>
+    <button>🎁 Enjoy Your Day!</button>
+</div>
+
+</body>
+</html>
